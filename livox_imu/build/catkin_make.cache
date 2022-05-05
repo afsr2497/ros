@@ -1,0 +1,2 @@
+laser2point:laser_geometry:livox_sus:livox_trans
+-DCATKIN_DEVEL_PREFIX=/home/alexander/ros/livox_imu/devel -DCMAKE_INSTALL_PREFIX=/home/alexander/ros/livox_imu/install -G Unix Makefiles

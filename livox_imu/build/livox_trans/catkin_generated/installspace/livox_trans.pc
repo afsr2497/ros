@@ -1,0 +1,8 @@
+prefix=/home/alexander/ros/livox_imu/install
+
+Name: livox_trans
+Description: Description of livox_trans
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
